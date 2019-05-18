@@ -14,7 +14,7 @@ Tables are organized as:
 The following picture shows how we organize our tables
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/707043502/postgres-etl/master/schema.png" width="150" height="200">
+<img src="https://github.com/707043502/postgres-etl/blob/master/pic/schema.png" width="150" height="200">
 </div>
 
 ## 3.PRACTICE
