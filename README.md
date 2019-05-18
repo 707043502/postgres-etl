@@ -13,8 +13,9 @@ Tables are organized as:
 
 The following picture shows how we organize our tables
 
-![image](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/schema.png)
-
+<div align=center>
+<img src="https://raw.githubusercontent.com/707043502/postgres-etl/master/schema.png" width="150" height="200">
+</div>
 
 ## 3.PRACTICE
 Users can run the scripts follow steps bellow😋
